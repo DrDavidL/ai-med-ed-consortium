@@ -99,6 +99,16 @@ Bridge2AI emphasizes ethical AI development, data diversity, and interdisciplina
 
 *Source: NIH Common Fund / Bridge2AI Consortium*
 
+### Video Resources
+
+**[Introduction to AI Logic](https://bcove.video/4s6xfCZ)** — Barinaga Z. Epic and Clinical Informatics Clerkship Practicum, Perelman School of Medicine, January 2026.
+
+**[AI Literacy for Clinical Training](https://bcove.video/48Tw6ay)** — Srikureja N. Epic and Clinical Informatics Clerkship Practicum, Perelman School of Medicine, January 2026.
+
+**[Practice-Based Learning and the Future of AI at Penn](https://bcove.video/4s6xfCZ)** — Lai D. Epic and Clinical Informatics Clerkship Practicum, Perelman School of Medicine, January 2026.
+
+*Source: University of Pennsylvania Perelman School of Medicine*
+
 ---
 
 ## Repository Structure
