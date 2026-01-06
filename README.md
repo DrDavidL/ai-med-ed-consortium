@@ -22,7 +22,7 @@ This consortium brings together medical education leaders from major academic he
 
 **Partner with industry.** Co-developing tools with the companies building them, not reacting after the fact.
 
-## Working Groups
+## Thematic Groups
 
 | Group | Focus |
 |-------|-------|
@@ -84,6 +84,20 @@ We're actively recruiting faculty and trainees with expertise or interest in:
 - **Local development guides**: Setting up secure local LLM environments for sensitive data
 
 Ideal for faculty development or as a starting point for learner-facing curricula.
+
+*Source: Northwestern University Feinberg School of Medicine*
+
+### Bridge2AI
+
+**[Bridge2AI](https://bridge2ai.org/)** — An NIH Common Fund program creating flagship datasets and best practices for AI/ML in biomedical research. Their educational resources include:
+
+- **AI/ML training modules**: Foundational courses on machine learning concepts for biomedical researchers
+- **Data readiness guidance**: Standards and tools for preparing ethically-sourced, AI-ready datasets
+- **Skills and workforce development**: Training the next generation of researchers in responsible AI
+
+Bridge2AI emphasizes ethical AI development, data diversity, and interdisciplinary collaboration — principles directly aligned with medical education goals.
+
+*Source: NIH Common Fund / Bridge2AI Consortium*
 
 ---
 
