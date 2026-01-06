@@ -73,41 +73,15 @@ We're actively recruiting faculty and trainees with expertise or interest in:
 
 ## Resources
 
-### Data Science & AI Foundations
+Consortium members contribute curricula, videos, policies, and tools for AI in medical education.
 
-**[Learning Digital Health & Data Science](https://github.com/DrDavidL/learning-dhds)** — A comprehensive collection of Jupyter notebooks and tools for learning data science with healthcare applications. Includes:
+**[View Full Resource Library →](RESOURCES.md)**
 
-- **6-part foundational series**: From Python basics through neural networks and LLMs
-- **Healthcare case studies**: Stroke analysis with AI/ML, synthetic data generation
-- **Hands-on notebooks**: Pre-built Colab-ready notebooks for immediate use
-- **AI-powered tools**: Case simulation, PubMed search optimization, automated analysis
-- **Local development guides**: Setting up secure local LLM environments for sensitive data
-
-Ideal for faculty development or as a starting point for learner-facing curricula.
-
-*Source: Northwestern University Feinberg School of Medicine*
-
-### Bridge2AI
-
-**[Bridge2AI](https://bridge2ai.org/)** — An NIH Common Fund program creating flagship datasets and best practices for AI/ML in biomedical research. Their educational resources include:
-
-- **AI/ML training modules**: Foundational courses on machine learning concepts for biomedical researchers
-- **Data readiness guidance**: Standards and tools for preparing ethically-sourced, AI-ready datasets
-- **Skills and workforce development**: Training the next generation of researchers in responsible AI
-
-Bridge2AI emphasizes ethical AI development, data diversity, and interdisciplinary collaboration — principles directly aligned with medical education goals.
-
-*Source: NIH Common Fund / Bridge2AI Consortium*
-
-### Video Resources
-
-**[Introduction to AI Logic](https://bcove.video/4s6xfCZ)** — Barinaga Z. Epic and Clinical Informatics Clerkship Practicum, Perelman School of Medicine, January 2026.
-
-**[AI Literacy for Clinical Training](https://bcove.video/48Tw6ay)** — Srikureja N. Epic and Clinical Informatics Clerkship Practicum, Perelman School of Medicine, January 2026.
-
-**[Practice-Based Learning and the Future of AI at Penn](https://bcove.video/4s6xfCZ)** — Lai D. Epic and Clinical Informatics Clerkship Practicum, Perelman School of Medicine, January 2026.
-
-*Source: University of Pennsylvania Perelman School of Medicine*
+**Highlights:**
+- **Curricula**: AI clinical practice modules (Stanford), data science notebooks (Northwestern)
+- **Videos**: AI in Med Ed Symposium recordings (Stanford), Clinical Informatics lectures (Penn)
+- **Policies**: Generative AI guidance and governance frameworks
+- **Partners**: Bridge2AI, Stanford HAI, AIMI, and more
 
 ---
 
