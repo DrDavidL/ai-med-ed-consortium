@@ -6,9 +6,9 @@ A multi-institutional collaborative advancing the thoughtful integration of arti
 
 ## The Challenge
 
-AI is transforming healthcare at a pace that outstrips our ability to prepare the next generation of physicians. Medical educators face a perfect storm: governance frameworks that don't yet exist, faculty development that can't keep up, and the very real risk of "deskilling" or "never-skilling" our trainees. Meanwhile, every institution is writing the same policies from scratch, building the same curricula in parallel, and solving the same problems in isolation.
+AI is transforming healthcare at a pace that mandates preparation of the next generation of physicians. However, medical educators face significant hurdles: governance frameworks that don't yet exist, faculty development that can't keep up, and the very real risk of "deskilling" or "never-skilling" our trainees. Meanwhile, every institution is writing the same policies from scratch, building the same curricula in parallel, and solving the same problems in isolation.
 
-We're done reinventing the wheel.
+Together, we can do better.
 
 ## What We're Building
 
