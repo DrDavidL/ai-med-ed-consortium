@@ -35,9 +35,61 @@ Ideal for faculty development or as a starting point for learner-facing curricul
 
 *Source: Northwestern University Feinberg School of Medicine*
 
+### PSOM AI Curriculum Task Force Report
+A comprehensive report from the PSOM AI Curriculum Task Force providing recommendations for integrating AI into undergraduate medical education. Key findings include:
+
+- **Needs assessment**: 93% of faculty report limited AI knowledge; 33% of students have never encountered AI during rotations
+- **Longitudinal curriculum framework**: AI competencies mapped across Core 1 (pre-clerkship), Core 2 (clerkship), and Core 3 (post-clerkship)
+- **Six AI competencies** based on Russell et al. 2023: explaining AI, ethics/equity, AI-enhanced clinical encounters, evaluating AI tools, adapting to AI workflows, and professional development
+- **Peer institution benchmarking**: Review of AI initiatives at 13 peer medical schools
+- **Implementation roadmap**: Short-term, near-term, and long-term goals for curriculum integration
+
+The report also includes detailed recommendations for faculty development and IT infrastructure to support AI education.
+
+- [Full Report (PDF)](resources/penn/PSOM-AI-Curriculum-Report.pdf)
+
+*Source: University of Pennsylvania Perelman School of Medicine*
+
+---
+
+## Frameworks & Methodologies
+
+### AI-SPARC: Keeping the Human in the AI Loop
+A five-step reflective cycle for educators using AI as a thought partner, ensuring human oversight throughout the process:
+
+- **S – Self-Reflect**: Examine your teaching philosophy, core learning goals, and perspectives on AI before using AI tools
+- **P – Prompt with a Model**: Use structured prompting methods like TRACI (Task, Role, Audience, Create, Intent) to ensure clarity
+- **A – Academic Requirements**: Ground prompts in official standards such as ACGME milestones or specific competency statements
+- **R – Research on Pedagogy**: Incorporate evidence-based educational theories (Miller's Pyramid, Kolb's Experiential Learning, Pangaro's RIME model)
+- **C – Critique**: Critically evaluate AI outputs against your self-reflection, academic standards, and pedagogical research
+
+The framework includes practical examples of using AI-SPARC iteratively to develop assessment items while maintaining educator oversight.
+
+- [Full Article](https://learn.hms.harvard.edu/insights/all-insights/keeping-human-ai-loop-sparc)
+- [TRACI Structured Prompting Guide](https://structuredprompt.com)
+- [AAMC AI Tools for Educators Collection](https://www.aamc.org)
+
+*Source: Harvard Medical School*
+
 ---
 
 ## Policies & Governance
+
+### PSOM Undergraduate Medical Education GenAI Policy
+A comprehensive policy establishing guidelines for acceptable use of generative AI in undergraduate medical education, addressing:
+
+- **Permissions and approved tools**: HIPAA/FERPA-compliant tools vetted through Penn's registry
+- **Accountability and disclosure**: Requirements for citing AI use and verifying outputs
+- **Patient privacy protections**: Strict prohibitions on PHI in non-approved tools
+- **Clinical skills development**: Guidelines distinguishing acceptable use (clinical decision support) from prohibited use (direct clinical documentation)
+- **Coursework and examinations**: Clear boundaries for AI use in academic work
+- **Instructor responsibilities**: Syllabus requirements and communication expectations
+
+Includes a practical reference table categorizing acceptable vs. unacceptable uses across coursework, patient care, documentation, scholarly work, and faculty instruction.
+
+- [Policy Document (PDF)](resources/penn/PSOM-GenAI-Policy-Draft.pdf)
+
+*Source: University of Pennsylvania Perelman School of Medicine*
 
 ### Stanford MD/MSPA Generative AI Policy
 Guidance for responsible use of generative AI in medical education, balancing innovation with professionalism, accuracy, and sensitive information protection.
