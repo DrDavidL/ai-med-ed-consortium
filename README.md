@@ -33,7 +33,7 @@ This consortium brings together medical education leaders from major academic he
 | **Ethics & Equity** | Responsible use, disclosure requirements, verification practices, professionalism |
 | **Research & Scholarship** | Collaborative studies, validity evidence, dissemination |
 
-## Participating Institutions
+## Participating Individuals from these Institutions 
 
 - Beth Israel Deaconess Medical Center / Harvard Medical School
 - Columbia University Irving Medical Center
