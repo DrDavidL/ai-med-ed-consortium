@@ -33,25 +33,6 @@ This consortium brings together medical education leaders from major academic he
 | **Ethics & Equity** | Responsible use, disclosure requirements, verification practices, professionalism |
 | **Research & Scholarship** | Collaborative studies, validity evidence, dissemination |
 
-## Participating Individuals from these Institutions 
-
-- Beth Israel Deaconess Medical Center / Harvard Medical School
-- Columbia University Irving Medical Center
-- Medical University of South Carolina
-- NYU Grossman School of Medicine
-- Northwestern University Feinberg School of Medicine
-- Stanford University School of Medicine
-- University of California San Francisco
-- University of Chicago Pritzker School of Medicine
-- University of Cincinnati College of Medicine
-- University of Maryland School of Medicine
-- University of Michigan Medical School
-- University of Pennsylvania Perelman School of Medicine
-- University of Pittsburgh School of Medicine
-- UPMC
-- Vanderbilt University School of Medicine
-- Yale School of Medicine
-
 ## Why This Matters
 
 Medical students are already using AI. Residents are dictating notes with ambient scribes. Attendings are getting diagnostic predictions they didn't ask for. The question isn't whether AI will transform medical education — it already is.
