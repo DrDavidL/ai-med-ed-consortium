@@ -71,6 +71,13 @@ The framework includes practical examples of using AI-SPARC iteratively to devel
 
 *Source: Harvard Medical School*
 
+### DEFT-AI Framework: Integrating AI into Medical Education
+A framework for incorporating reflection on AI usage in medical education, helping educators and learners critically evaluate their interactions with AI tools in clinical and educational contexts.
+
+- [Full Article (NEJM)](https://www.nejm.org/doi/full/10.1056/NEJMra2503232)
+
+*Source: Contributed via AI in Med Ed Consortium discussion*
+
 ---
 
 ## Policies & Governance
@@ -97,6 +104,28 @@ Guidance for responsible use of generative AI in medical education, balancing in
 - [Policy Document](https://med.stanford.edu/md/mdhandbook/section-3-md-requirements-procedures/3-32--generative-artificial-intelligence--ai--policy.html)
 
 *Source: Stanford University School of Medicine*
+
+### Vanderbilt Generative AI Resources
+Guidance on maintaining academic integrity while using generative AI tools, including frameworks for appropriate use in educational settings.
+
+- [Academic Integrity Guidelines](https://www.vanderbilt.edu/generative-ai/academic-integrity/)
+- [Academic Affairs AI Guidance (PDF)](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/439/2023/11/29200845/Academic-Affairs-Guidance-for-Artificial-Intelligence-Nov-29-2023.pdf)
+
+*Source: Vanderbilt University*
+
+### Teaching and Learning with AI
+Resources and guidance for faculty on integrating AI into teaching and learning, including pedagogical strategies and policy considerations.
+
+- [Teaching Guide](https://petal.miami.edu/teaching-guides-and-policies/teaching-and-learning-with-ai/index.html)
+
+*Source: University of Miami*
+
+### Yale Guidelines for Use of Generative AI Tools
+Institutional guidelines from Yale's Provost office on the responsible use of generative AI tools in academic settings.
+
+- [Guidelines](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
+
+*Source: Yale University*
 
 ---
 
