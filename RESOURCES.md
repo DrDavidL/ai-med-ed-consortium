@@ -82,6 +82,24 @@ A framework for incorporating reflection on AI usage in medical education, helpi
 
 ## Policies & Governance
 
+### Consortium Composite GenAI Policy Guide
+A comprehensive framework synthesizing best practices from Penn, Stanford, Yale, Vanderbilt, and Miami into a unified reference for institutions developing AI governance policies.
+
+**Key Highlights:**
+- **Quick Reference Table**: Acceptable vs. prohibited uses across learning, clinical care, documentation, and scholarly work
+- **Five Core Principles**: AI augments (not replaces) judgment, transparency is non-negotiable, privacy is paramount, accountability rests with users, context determines appropriate use
+- **Clinical Skills Guidance**: Clear distinction between clinical decision support (acceptable) and initial differential/management plan generation (discouraged without authorization)
+- **Disclosure Standards**: What to include when citing AI use (tool, version, date, prompt, output, how used)
+- **Detection Tool Limitations**: Why AI detection scores alone are insufficient for misconduct allegations
+- **Sample Syllabus Language**: Four options from restrictive to exploratory for faculty adoption
+- **Red Flags for Misuse**: Indicators faculty can use to identify potential unauthorized AI use
+
+- [Full Guide (Markdown)](resources/Composite-GenAI-Policy-Guide.md)
+
+*Source: AI in Medical Education Consortium synthesis of institutional policies*
+
+---
+
 ### PSOM Undergraduate Medical Education GenAI Policy
 A comprehensive policy establishing guidelines for acceptable use of generative AI in undergraduate medical education, addressing:
 
