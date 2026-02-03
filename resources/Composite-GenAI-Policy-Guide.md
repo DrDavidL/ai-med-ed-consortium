@@ -8,7 +8,7 @@
 
 ## Purpose
 
-This guide synthesizes best practices from generative AI policies at Penn, Stanford, Yale, Vanderbilt, Miami, and UChicago to provide a comprehensive framework for institutions developing or refining their own AI governance. It balances educational innovation with patient safety, academic integrity, and the development of independent clinical reasoning skills.
+This guide synthesizes best practices from generative AI policies at Penn, Stanford, Yale, Vanderbilt, Miami, UChicago, and Northwestern to provide a comprehensive framework for institutions developing or refining their own AI governance. It balances educational innovation with patient safety, academic integrity, and the development of independent clinical reasoning skills.
 
 ---
 
@@ -75,7 +75,10 @@ This distinction matters because policies targeting "AI use" should clearly spec
 - High-risk institutional data
 - Social Security numbers or payment card data
 
-**Best Practice (Penn, Yale):** Align AI tool permissions with institutional data risk classification frameworks.
+**Best Practice (Penn, Yale, Northwestern):** Align AI tool permissions with institutional data risk classification frameworks. Northwestern's 4-level system provides a useful model:
+- Level 1 (public): May use public AI tools
+- Levels 2-3 (sensitive): Requires institutionally approved tools
+- Level 4 (restricted): Requires explicit security review
 
 ### 2. Disclosure and Citation Standards
 
@@ -112,7 +115,7 @@ Institutions should maintain a centrally managed registry of approved AI tools v
 - Unauthorized use of AI medical scribes
 - Bypassing clinical documentation requirements
 
-**Rationale:** Students must develop independent clinical reasoning before integrating AI augmentation.
+**Rationale (Northwestern Feinberg):** "The *process* of completing the work is as important as the final *product*, if not more so." Writing assignments clarify thinking, promote reflective practice, and foster critical reasoning skills foundational to medicine. Students must develop independent clinical reasoning before integrating AI augmentation.
 
 ### 5. Academic Integrity
 
@@ -218,6 +221,7 @@ This guide synthesizes frameworks from:
 - Vanderbilt University
 - University of Miami
 - University of Chicago
+- Northwestern University Feinberg School of Medicine
 
 For institution-specific policies, refer to the original documents linked in the [AI in Medical Education Consortium Resources](../RESOURCES.md).
 

@@ -83,7 +83,7 @@ A framework for incorporating reflection on AI usage in medical education, helpi
 ## Policies & Governance
 
 ### Consortium Composite GenAI Policy Guide
-A comprehensive framework synthesizing best practices from Penn, Stanford, Yale, Vanderbilt, Miami, and UChicago into a unified reference for institutions developing AI governance policies.
+A comprehensive framework synthesizing best practices from Penn, Stanford, Yale, Vanderbilt, Miami, UChicago, and Northwestern into a unified reference for institutions developing AI governance policies.
 
 **Key Highlights:**
 - **Quick Reference Table**: Acceptable vs. prohibited uses across learning, clinical care, documentation, and scholarly work
@@ -158,6 +158,19 @@ University-wide guidance on AI use, including data protection requirements, proc
 - [Law School GenAI Policy](https://www.law.uchicago.edu/students/handbook/academicmatters/generative-ai)
 
 *Source: University of Chicago*
+
+### Northwestern University Generative AI Resources
+University IT guidance with a data classification framework (Levels 1-4) for determining appropriate AI tool usage. The Feinberg School of Medicine policy provides clear guidelines aligned with LCME Element 3.5 (Learning Environment/Professionalism).
+
+**Notable from Feinberg Policy:**
+- **Process over product**: "The *process* of completing the work is as important as the final *product*, if not more so"—articulates why AI restrictions support learning
+- **Curricular materials protection**: May only upload to Northwestern-authenticated systems (e.g., Copilot in Bing with NetID)
+- **H&P/clinical notes**: Prohibited outside EHR-supported tools; grounds for clerkship failure
+
+- [University IT GenAI Guidance](https://www.it.northwestern.edu/about/policies/guidance-on-the-use-of-generative-ai.html)
+- [Feinberg Medical Student Policy (PDF)](https://www.feinberg.northwestern.edu/md-education/docs/policies/professionalism-learning-environment/use-of-generative-ai-tools-policy.pdf)
+
+*Source: Northwestern University Feinberg School of Medicine*
 
 ---
 
