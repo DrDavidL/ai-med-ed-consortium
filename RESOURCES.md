@@ -83,7 +83,7 @@ A framework for incorporating reflection on AI usage in medical education, helpi
 ## Policies & Governance
 
 ### Consortium Composite GenAI Policy Guide
-A comprehensive framework synthesizing best practices from Penn, Stanford, Yale, Vanderbilt, and Miami into a unified reference for institutions developing AI governance policies.
+A comprehensive framework synthesizing best practices from Penn, Stanford, Yale, Vanderbilt, Miami, and UChicago into a unified reference for institutions developing AI governance policies.
 
 **Key Highlights:**
 - **Quick Reference Table**: Acceptable vs. prohibited uses across learning, clinical care, documentation, and scholarly work
@@ -144,6 +144,19 @@ Institutional guidelines from Yale's Provost office on the responsible use of ge
 - [Guidelines](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
 
 *Source: Yale University*
+
+### University of Chicago Generative AI Resources
+University-wide guidance on AI use, including data protection requirements, procurement pathways, and the PhoenixAI institutional platform. The Law School policy offers particularly useful frameworks for academic integrity.
+
+**Notable from Law School Policy:**
+- **Clear tool distinction**: Differentiates generative AI (creates original content) from conventional tools (search, spellcheck, grammar)
+- **"Attribution does not permit use"**: Even with proper citation, certain uses remain prohibited—disclosure alone doesn't make inappropriate use acceptable
+- **Exam bright line**: AI prohibited during exams, but studying with AI beforehand is permitted
+
+- [University GenAI Guidance](https://genai.uchicago.edu/about/generative-ai-guidance)
+- [Law School GenAI Policy](https://www.law.uchicago.edu/students/handbook/academicmatters/generative-ai)
+
+*Source: University of Chicago*
 
 ---
 

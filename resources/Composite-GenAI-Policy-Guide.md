@@ -8,7 +8,7 @@
 
 ## Purpose
 
-This guide synthesizes best practices from generative AI policies at Penn, Stanford, Yale, Vanderbilt, and Miami to provide a comprehensive framework for institutions developing or refining their own AI governance. It balances educational innovation with patient safety, academic integrity, and the development of independent clinical reasoning skills.
+This guide synthesizes best practices from generative AI policies at Penn, Stanford, Yale, Vanderbilt, Miami, and UChicago to provide a comprehensive framework for institutions developing or refining their own AI governance. It balances educational innovation with patient safety, academic integrity, and the development of independent clinical reasoning skills.
 
 ---
 
@@ -19,6 +19,8 @@ Generative AI tools are predictive models based on statistical patterns—not di
 
 ### 2. Transparency is Non-Negotiable
 All AI use must be openly declared. This applies to students, faculty, and staff across coursework, clinical care, and scholarly work.
+
+**Critical Clarification (UChicago Law):** Attribution does not permit use. Even with proper disclosure, certain uses remain prohibited—transparency alone does not make inappropriate use acceptable.
 
 ### 3. Privacy Protection is Paramount
 Protected health information (PHI), personally identifiable information (PII), and sensitive institutional data must never be entered into non-approved AI tools—regardless of claims of compliance.
@@ -41,6 +43,22 @@ AI policies vary by course, clinical site, and assignment. When specific guidanc
 | **Documentation** | Using explicitly course-approved EHR features | Copy-pasting AI-generated notes without clinician review, unauthorized AI scribes |
 | **Scholarly Work** | Literature review assistance, formatting, drafting (with disclosure) | Uploading research data or unpublished work to non-approved tools |
 | **Teaching** | Creating course materials, generating assessment items (with disclosure) | Non-disclosure of AI use in content creation or student evaluation |
+
+---
+
+## Defining Generative AI
+
+*Adapted from UChicago Law School:*
+
+**Generative AI** refers to tools that create original content (text, images, code) based on user prompts—such as ChatGPT, Claude, Copilot, or Gemini.
+
+**Conventional tools** that are generally not subject to GenAI policies include:
+- Search engines (Google, PubMed)
+- Spell-check and basic grammar correction
+- Citation managers
+- Standard calculator functions
+
+This distinction matters because policies targeting "AI use" should clearly specify whether they apply only to generative tools or to all AI-assisted features.
 
 ---
 
@@ -101,6 +119,8 @@ Institutions should maintain a centrally managed registry of approved AI tools v
 - AI use in examinations and assignments is prohibited unless explicitly permitted by instructors
 - Students are responsible for inaccuracies in submitted work, regardless of source
 - All outputs must be verified against trusted sources (guidelines, core texts, peer-reviewed literature)
+
+**Exam Bright Line (UChicago Law):** Generative AI is absolutely prohibited during examinations—every word must be the student's own. However, studying with AI tools before exams is generally permitted unless otherwise specified.
 
 **Detection Tool Limitations (Vanderbilt, Miami):**
 - Traditional plagiarism checkers are unreliable for AI detection
@@ -197,6 +217,7 @@ This guide synthesizes frameworks from:
 - Yale University
 - Vanderbilt University
 - University of Miami
+- University of Chicago
 
 For institution-specific policies, refer to the original documents linked in the [AI in Medical Education Consortium Resources](../RESOURCES.md).
 
