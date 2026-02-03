@@ -88,6 +88,7 @@ A comprehensive framework synthesizing best practices from Penn, Stanford, Yale,
 **Key Highlights:**
 - **Quick Reference Table**: Acceptable vs. prohibited uses across learning, clinical care, documentation, and scholarly work
 - **Five Core Principles**: AI augments (not replaces) judgment, transparency is non-negotiable, privacy is paramount, accountability rests with users, context determines appropriate use
+- **"Attribution Does Not Permit Use"**: Disclosure alone doesn't make inappropriate use acceptable—a critical clarification from UChicago Law
 - **Clinical Skills Guidance**: Clear distinction between clinical decision support (acceptable) and initial differential/management plan generation (discouraged without authorization)
 - **Disclosure Standards**: What to include when citing AI use (tool, version, date, prompt, output, how used)
 - **Detection Tool Limitations**: Why AI detection scores alone are insufficient for misconduct allegations
