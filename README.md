@@ -69,13 +69,13 @@ Consortium members contribute curricula, videos, policies, and tools for AI in m
 ## Repository Structure
 
 ```
-├── /curriculum          # Syllabi, learning objectives, teaching materials
-├── /faculty-development # Training modules, workshops, competency frameworks
-├── /policies            # Institutional policies, governance templates
-├── /assessment          # Evaluation tools, rubrics, AI-assisted grading
-├── /research            # Protocols, instruments, collaborative datasets
-└── /resources           # Shared tools, Jupyter notebooks, reading lists
+├── RESOURCES.md                              # Main resource catalog (curricula, policies, videos, etc.)
+└── resources/
+    ├── Composite-GenAI-Policy-Guide.md       # Synthesized best practices from all member institutions
+    └── penn/                                 # Penn-specific documents (PDFs, reports)
 ```
+
+Resources in [RESOURCES.md](RESOURCES.md) are organized by type: Curricula, Frameworks, Policies, Videos, and Partners. Institution-specific documents are stored in subfolders under `resources/`.
 
 ## Contributing
 
