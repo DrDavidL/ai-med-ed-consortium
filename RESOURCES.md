@@ -78,6 +78,21 @@ A framework for incorporating reflection on AI usage in medical education, helpi
 
 *Source: Contributed via AI in Med Ed Consortium discussion*
 
+### DEFT-AI Applied: Supervising Resident AI Use Without Losing the Learning
+A practical extension of the DEFT-AI framework focused on clinical supervision, addressing how to integrate AI tools into residency training while preserving the productive struggle essential for developing clinical expertise. Preiksaitis provides a five-step supervisory approach for real-time clinical settings:
+
+- **Diagnose**: Ask directly if AI tools were used
+- **Explore**: Understand what information was provided to the system
+- **Feedback**: Focus on the resident's reasoning, not just answers
+- **Teach verification**: Discuss how to validate AI recommendations
+- **Advice**: Provide guidance on appropriate future use
+
+The article identifies which tasks should remain exclusively human-performed (e.g., constructing initial differentials, forming problem representations) versus those that may be safely augmented, and emphasizes keeping residents as primary decision-makers.
+
+- [Full Article (JGME)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12903258/)
+
+*Source: University of Maryland School of Medicine (contributed by Nitin Seam, MD)*
+
 ---
 
 ## Policies & Governance
