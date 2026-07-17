@@ -52,6 +52,19 @@ We're actively recruiting faculty and trainees with expertise or interest in:
 
 **To join:** Contact any steering committee member or open an issue in this repository.
 
+## Quick Start for Faculty
+
+Jump straight to what you need:
+
+| I want to... | Go to |
+|--------------|-------|
+| **Use AI in my own clinical or scholarly work** | [Faculty Development Repository](resources/Faculty-Development-Workflows.md) — step-by-step workflows with prompts and guardrails |
+| **Write or update an AI policy** | [Composite GenAI Policy Guide](resources/Composite-GenAI-Policy-Guide.md) — synthesized best practices, syllabus language, quick-reference tables |
+| **Teach learners about AI** | [Curricula & Learning Materials](RESOURCES.md#curricula--learning-materials) |
+| **Browse everything** | [Full Resource Library](RESOURCES.md) |
+
+**Have a time-saving AI workflow to share?** Open a Pull Request or an issue in this repository — a two-sentence description is enough to start.
+
 ## Resources
 
 Consortium members contribute curricula, videos, policies, and tools for AI in medical education.
@@ -59,6 +72,7 @@ Consortium members contribute curricula, videos, policies, and tools for AI in m
 **[View Full Resource Library →](RESOURCES.md)**
 
 **Highlights:**
+- **Faculty Workflows**: Omission Scanning for med/problem list reconciliation, pre-submission manuscript review, and more
 - **Curricula**: AI clinical practice modules (Stanford), data science notebooks (Northwestern)
 - **Videos**: AI in Med Ed Symposium recordings (Stanford), Clinical Informatics lectures (Penn)
 - **Policies**: Generative AI guidance and governance frameworks
@@ -72,10 +86,11 @@ Consortium members contribute curricula, videos, policies, and tools for AI in m
 ├── RESOURCES.md                              # Main resource catalog (curricula, policies, videos, etc.)
 └── resources/
     ├── Composite-GenAI-Policy-Guide.md       # Synthesized best practices from all member institutions
+    ├── Faculty-Development-Workflows.md      # AI workflows for faculty clinical & administrative work
     └── penn/                                 # Penn-specific documents (PDFs, reports)
 ```
 
-Resources in [RESOURCES.md](RESOURCES.md) are organized by type: Curricula, Frameworks, Policies, Videos, and Partners. Institution-specific documents are stored in subfolders under `resources/`.
+Resources in [RESOURCES.md](RESOURCES.md) are organized by type: Faculty Workflows, Curricula, Frameworks, Policies, Videos, and Partners. Institution-specific documents are stored in subfolders under `resources/`.
 
 ## Contributing
 
@@ -85,7 +100,9 @@ Resources in [RESOURCES.md](RESOURCES.md) are organized by type: Curricula, Fram
 4. Push to the branch (`git push origin feature/new-resource`)
 5. Open a Pull Request
 
-All contributions should align with our [contribution guidelines](CONTRIBUTING.md) and respect institutional IP policies.
+Not ready for a full PR? Open an issue describing the resource or workflow and it will be incorporated for you.
+
+All contributions should include source attribution and respect institutional IP policies.
 
 ## License
 

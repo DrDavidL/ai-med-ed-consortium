@@ -8,6 +8,7 @@ This repository contains resources, policies, curricula, and frameworks for the 
 
 - `RESOURCES.md` - Main resource collection with links to curricula, frameworks, policies, and videos
 - `resources/Composite-GenAI-Policy-Guide.md` - Synthesized "best of the best" policy framework from member institutions
+- `resources/Faculty-Development-Workflows.md` - Faculty Development Repository: AI workflows for faculty clinical, administrative, teaching, and scholarly tasks
 - `resources/penn/` - Penn-specific policy and curriculum documents
 
 ## Policy Review Workflow
@@ -53,6 +54,24 @@ The Composite-GenAI-Policy-Guide.md should:
 - Prioritize actionable guidance over aspirational statements
 - Include practical tools (tables, checklists, sample language)
 - Be updated when new policies offer meaningfully better approaches
+
+## Faculty Workflow Submissions
+
+Consortium members email workflow suggestions with **#workflow** in the subject line; the maintainer forwards them here for incorporation.
+
+### When a Workflow Submission Is Forwarded
+
+1. **Extract the workflow elements**: name, category (clinical / administrative / teaching / scholarly), tools used and their security tier, steps, prompts, guardrails, and estimated time saved. If elements are missing, draft them from the description using clinical and scholarly best judgment — flag anything invented for the maintainer to verify.
+
+2. **Format as a workflow card** in `resources/Faculty-Development-Workflows.md`, matching the existing entries' structure: problem it solves, what the workflow does, numbered steps, prompt starter, guardrails, and why it's worth it.
+
+3. **Enforce the security framing**: every workflow must state its required tool security tier (EHR-integrated PHI-secure / enterprise no-retention / local model / any). Clinical workflows involving patient data must specify PHI-secure tools only. Scholarly workflows on unpublished work must specify no-retention or local tools.
+
+4. **Update the Workflow Index table** at the top of the file and, if the workflow represents a new category, add a category section.
+
+5. **Credit the contributor** and their institution (or note anonymity if requested).
+
+6. **Update the RESOURCES.md Faculty Development Repository section** if the new workflow changes the "Current workflows include" summary.
 
 ## Resource Contributions
 

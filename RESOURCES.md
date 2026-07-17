@@ -2,6 +2,19 @@
 
 A curated collection of educational materials, tools, and resources contributed by consortium member institutions and partners.
 
+## Find What You Need
+
+| If you want to... | Start here |
+|-------------------|------------|
+| Use AI in your own clinical, scholarly, or administrative work | [Faculty Development Repository](#faculty-development-repository-ai-workflows-for-faculty) |
+| Teach students or residents about AI | [Curricula & Learning Materials](#curricula--learning-materials) |
+| Supervise trainees who are using AI | [Frameworks & Methodologies](#frameworks--methodologies) (see DEFT-AI Applied) |
+| Write or update an institutional AI policy | [Policies & Governance](#policies--governance) (start with the Composite Guide) |
+| Add AI guidance to your syllabus | [Composite GenAI Policy Guide](resources/Composite-GenAI-Policy-Guide.md) (sample syllabus language) |
+| Watch talks and workshops | [Video Resources](#video-resources) |
+| Connect with partner programs | [Partner Programs & Organizations](#partner-programs--organizations) |
+| Share a resource or workflow | [Contributing Resources](#contributing-resources) |
+
 ---
 
 ## Curricula & Learning Materials
@@ -92,6 +105,22 @@ The article identifies which tasks should remain exclusively human-performed (e.
 - [Full Article (JGME)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12903258/)
 
 *Source: University of Maryland School of Medicine (contributed by Nitin Seam, MD)*
+
+---
+
+## Faculty Development Repository: AI Workflows for Faculty
+
+Practical workflows and strategies to help faculty members use AI in their own clinical and administrative work — not just teach about it. Each workflow specifies the required tool security tier (PHI-secure, no-retention, or local), step-by-step instructions, a prompt starter, and guardrails.
+
+**Current workflows include:**
+- **Omission Scanning** (clinical): using integrated PHI-secure AI tools to cross-check medication lists against problem lists in both directions, surfacing undocumented diagnoses, care gaps, deprescribing candidates, and stale entries for clinician verification
+- **Pre-Submission Manuscript Review** (scholarly): using no-retention secure AI tools or local models to catch writing errors and internal inconsistencies before journal submission — with proper disclosure — reducing rounds of editorial revision
+
+- [Faculty Development Repository (Markdown)](resources/Faculty-Development-Workflows.md)
+
+**Have a workflow that saves you time?** Submit it via Pull Request, or open an issue with even a two-sentence description — see the [contribution template](resources/Faculty-Development-Workflows.md#contribute-a-workflow).
+
+*Source: AI in Medical Education Consortium — Faculty Development thematic group*
 
 ---
 
@@ -208,7 +237,7 @@ University IT guidance with a data classification framework (Levels 1-4) for det
 
 | Session | Speaker | Link |
 |---------|---------|------|
-| Introduction to AI Logic | Barinaga Z | [Watch](https://bcove.video/4s6xfCZ) |
+| Introduction to AI Logic | Barinaga Z | *Link pending update* |
 | AI Literacy for Clinical Training | Srikureja N | [Watch](https://bcove.video/48Tw6ay) |
 | Practice-Based Learning and the Future of AI at Penn | Lai D | [Watch](https://bcove.video/4s6xfCZ) |
 
@@ -244,11 +273,15 @@ Bridge2AI emphasizes ethical AI development, data diversity, and interdisciplina
 
 ## Contributing Resources
 
-We welcome resource contributions from all consortium members. To add resources:
+We welcome resource contributions from all consortium members.
+
+**New to GitHub?** Open an issue describing your resource or workflow and it will be incorporated for you.
+
+To contribute directly:
 
 1. Fork this repository
 2. Add your resource to the appropriate section in this file
 3. Include a clear description, link, and source attribution
 4. Submit a Pull Request
 
-All contributions should align with our [contribution guidelines](CONTRIBUTING.md).
+All contributions should include source attribution and respect institutional IP policies.
