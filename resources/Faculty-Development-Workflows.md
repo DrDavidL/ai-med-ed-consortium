@@ -20,6 +20,7 @@ Practical, field-tested workflows that help faculty use AI to work smarter in cl
 | Workflow | Category | Security Tier Required |
 |----------|----------|------------------------|
 | [Omission Scanning](#omission-scanning-medication--problem-list-reconciliation) | Clinical | EHR-integrated or enterprise PHI-secure AI |
+| [Ready-to-Use Teaching Session: AI in Clinical Care](#ready-to-use-teaching-session-ai-in-clinical-care) | Teaching | None — discussion-based module |
 | [Pre-Submission Manuscript Review](#pre-submission-manuscript-review) | Scholarly / Administrative | No-retention enterprise AI or local model |
 
 ---
@@ -60,6 +61,31 @@ Practical, field-tested workflows that help faculty use AI to work smarter in cl
 - Accountability for the final medication list and problem list rests with the clinician, exactly as it would without the tool.
 
 **Why faculty report it's worth it:** a structured two-to-three-minute scan before a visit or during medication reconciliation catches list drift that ad hoc review misses, improves the problem list as a communication tool for the whole care team, and models rigorous, transparent AI use for trainees in real time.
+
+---
+
+## Teaching Workflows
+
+### Ready-to-Use Teaching Session: AI in Clinical Care
+
+**Category:** Teaching &nbsp;|&nbsp; **Time investment:** one small-group session (no preparation of original materials required) &nbsp;|&nbsp; **Tools:** None — discussion-based module
+
+**The problem it solves.** Faculty asked to teach about AI in clinical care often have to build a session from scratch on a topic they're still learning themselves. A vetted, case-based module with a moderator guide removes that barrier.
+
+**What the workflow is.** A case-based teaching module from the Yale Primary Care Pediatrics Curriculum, designed as a guide for small-group discussion on AI in clinical care and also suitable for self-directed reading. Targeted at all levels of learners and clinicians, it comes in separate **learner** and **moderator** versions, so you can lead the discussion from the moderator guide while distributing the learner version.
+
+The module's five learning objectives: developing vocabulary around clinical AI; evaluating use cases (ambient documentation, clinical decision support, summarization); selecting applications that avoid cognitive offloading; applying safeguards such as verification and privacy review; and discussing climate implications — all while emphasizing preservation of diagnostic reasoning and professional accountability.
+
+**How to use it:**
+
+1. Read the moderator version to prepare; no additional materials are needed.
+2. Distribute the learner version before or during a small-group session.
+3. Lead the case discussion, drawing on the moderator guide's prompts.
+4. Alternatively, assign it as self-directed reading for learners or as a primer for fellow faculty.
+
+- [Sample Chapter](https://medicine.yale.edu/pediatrics/pcpc/about/sample/)
+
+*Source: Yale School of Medicine (contributed by Jaideep S. Talwalkar, MD)*
 
 ---
 

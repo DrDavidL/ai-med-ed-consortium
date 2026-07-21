@@ -63,6 +63,19 @@ The report also includes detailed recommendations for faculty development and IT
 
 *Source: University of Pennsylvania Perelman School of Medicine*
 
+### AI in Clinical Care: Case-Based Teaching Module
+A case-based module from the Yale Primary Care Pediatrics Curriculum designed as a teaching guide for small-group discussion on AI in clinical care, also suitable for self-directed reading. Targeted at all levels of learners and clinicians. Key features:
+
+- **Case-based format** with separate learner and moderator versions to support interactive teaching
+- **Five learning objectives**: developing vocabulary around clinical AI; evaluating use cases (ambient documentation, clinical decision support, summarization); selecting applications that avoid cognitive offloading; applying safeguards such as verification and privacy review; and discussing climate implications
+- **Emphasis on preserving diagnostic reasoning and professional accountability** while integrating AI into clinical care
+
+Also cross-listed in the [Faculty Development Repository](resources/Faculty-Development-Workflows.md) as a ready-to-use teaching session.
+
+- [Sample Chapter](https://medicine.yale.edu/pediatrics/pcpc/about/sample/)
+
+*Source: Yale School of Medicine (contributed by Jaideep S. Talwalkar, MD)*
+
 ---
 
 ## Frameworks & Methodologies
@@ -114,6 +127,7 @@ Practical workflows and strategies to help faculty members use AI in their own c
 
 **Current workflows include:**
 - **Omission Scanning** (clinical): using integrated PHI-secure AI tools to cross-check medication lists against problem lists in both directions, surfacing undocumented diagnoses, care gaps, deprescribing candidates, and stale entries for clinician verification
+- **Ready-to-Use Teaching Session: AI in Clinical Care** (teaching): a case-based Yale module with learner and moderator versions for leading a small-group discussion — no original materials required
 - **Pre-Submission Manuscript Review** (scholarly): using no-retention secure AI tools or local models to catch writing errors and internal inconsistencies before journal submission — with proper disclosure — reducing rounds of editorial revision
 
 - [Faculty Development Repository (Markdown)](resources/Faculty-Development-Workflows.md)
